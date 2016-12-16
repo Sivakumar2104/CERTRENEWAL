@@ -6,12 +6,12 @@
 <title>Certificates</title>
 </head>
 <frameset rows="10%,80%,10%" frameborder=no border=no >
-	<frame name="top" src="jsp/header.jsp" />
-	<frameset cols="25%,*" frameborder=no border=no framespacing=no>
+	<frame name="top" src="jsp/header.jsp" scrolling=no />
+	<frameset cols="20%,*" frameborder=no border=no framespacing=no >
 		<frame name="left" src="jsp/applications.jsp" scrolling=no />
 		<frame name="right" />
 	</frameset>
-	<frame name="bottom" src="jsp/footer.jsp" />
+	<frame name="bottom" src="jsp/footer.jsp" scrolling=no />
 	<noframes>
 		<body>Your browser does not support frames.
 		</body>

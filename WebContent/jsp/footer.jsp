@@ -5,8 +5,23 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
+<style>
+.footer {
+	padding: 10px;
+	background: #6D4A70;
+	position: relative;
+}
+
+.footer h1 {
+	color: #fff;
+	font-size: 1.5em;
+	text-align: left;
+	margin: 0 23px;
+}
+</style>
 </head>
 <body>
-footer
+<div class="footer">
+<h1>CDC Environment Team | Connectivity & Digital Content</h1></div>
 </body>
 </html>
