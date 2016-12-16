@@ -10,12 +10,12 @@
 	</welcome-file-list>
 
 	<servlet>
-		<servlet-name>myservlet</servlet-name>
+		<servlet-name>MyServlet</servlet-name>
 		<servlet-class>MyServlet</servlet-class>
 	</servlet>
 
 	<servlet-mapping>
-		<servlet-name>myservlet</servlet-name>
+		<servlet-name>MyServlet</servlet-name>
 		<url-pattern>/login</url-pattern>
 	</servlet-mapping>
 
